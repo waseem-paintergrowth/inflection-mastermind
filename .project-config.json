@@ -6,6 +6,10 @@
   "experiments": null,
   "git_remote": {
     "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663459151511/XJYxBh8N9JT8ehAvZXBMoA",
+    "access_key_id": "ASIAZV3A2ECZC4T5PJJY",
+    "secret_access_key": "Ijz8MrgqwUJSMofpgEI8Dzw89zumqZXIZY/RACVL",
+    "session_token": "IQoJb3JpZ2luX2VjEAQaCXVzLWVhc3QtMSJGMEQCIEqZkYfMepTv8u2LhJP8fsi4GsQfHEZsHIxUD7WytvXeAiAaf4Ms6Y/Og8NRek1HPrSnCe+pqUfy814TtgUSz2nYzir+AwjN//////////8BEAQaDDY2NTM4NjA5ODg2NiIMJbB050V5T2GPg/aeKtIDTpvejqs6TeXKR2lljeonjH0Na7V9jUBy9X9gqggiBfTNucmbdeocoRxZf0tCd7qZGpsgnpalcU08HZvLJ7vtDa3MxDzCfPIpYvUmg4NROz3ZV9hDcY6uZnvpFLV0jL64N2nP0qXaWL2qD4rAktGhg+GkEmhsHKoA5sEzll1QysV5rv1Y8RlPtNNOlTbYcBTzjVSbgXbzyJ8/k041ovrHpzxdtsYkSi3MAJRnp0kyM1dF4CEUvdEj7+2rP9fGqjzV7+FpsWkH8/+xA2z4fp+VJQPALQtmK6ZVXah9mbZpu8/E7mtW/mh3BpUj/jOd91RqX+XsVD9KQw5QL4D/0Xcy7lp0sVC9FCLqet74AsKdpZw+8yASa+UzAmIy86fl56m5JNOcMer2KuvzGUM6APf+jY3mEsHzfBeLBddisPSuBOnxbn3I0EWh6z7/lYIxcY5XjDyPI/nxB3UpXfeVlCakONJDuvNo3GTgmEQiU0UrcYnbceEYjdfoGi2/6Dtn4VCfpoipiMFwuRuY9eToU4RTyvy31EEoIo3b1VEZxqmuZq7wxz1pCXV5Zvn1XLJ4HLiXWiZovRb/Gqf6eZKTvfajEtvn+VzLEEbNF2va+j9EE1JuJDDSu6/QBjqeAfNM6Dwt29LCmDEyM5ftAJvkhnnu/FDzwmsuc3+p022V8XMLiJ2U/6sHBgMPtNFIDuBEiXFzBaPT5aNKO3IQoIREGmove+686wHA8MdHrADY3WjHf/YvsbJHI8YI3nUSFHmO4HXd/Vvhf4+t9BnLMsNxWBb6k1BJI6AvUD8HxfbueRDsi8/iCR+XHHd0RBn58BH+H77ofmRqsWFUPwQG",
+    "expiration": "2026-05-19T15:49:38.000Z"
   },
   "name": "the-inflection-landing",
   "path": "/home/ubuntu/the-inflection-landing",
