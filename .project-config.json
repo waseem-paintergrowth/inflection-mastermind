@@ -1,0 +1,31 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663459151511/XJYxBh8N9JT8ehAvZXBMoA",
+  },
+  "name": "the-inflection-landing",
+  "path": "/home/ubuntu/the-inflection-landing",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "MsEm2cpZ3Xg8ENJfEGyHV6",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "7w8VBjZLtgmS8n8uUR5eKQ",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Mike Gore-Hickman",
+    "OWNER_OPEN_ID": "NjA32pyFiXU9T2AH2UuWVb",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "ef76a0c4-9e50-4bf8-90e3-8bb38cc08743",
+    "VITE_APP_ID": "XJYxBh8N9JT8ehAvZXBMoA",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "The Inflection",
+    "VITE_FRONTEND_FORGE_API_KEY": "K9BbBtzMgGU9KUAkStJAkW",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
